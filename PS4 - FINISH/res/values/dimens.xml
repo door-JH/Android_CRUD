@@ -1,0 +1,19 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="title0">10sp</dimen>
+    <dimen name="title1">11sp</dimen>
+    <dimen name="title2">13sp</dimen>
+    <dimen name="title3">15sp</dimen>
+    <dimen name="title4">17sp</dimen>
+    <dimen name="title5">19sp</dimen>
+    <dimen name="title6">21sp</dimen>
+    <dimen name="title7">23sp</dimen>
+    <dimen name="title8">25sp</dimen>
+    <dimen name="title9">27sp</dimen>
+</resources>
